@@ -3,9 +3,6 @@ import '../Styles/style.css';
 import '../Styles/styles.css';
 import ButtonCreateNFT from './Buttons/buttonNFT'
 
-//import rigoImage from "../../img/rigo-baby.jpg";
-//<img src={rigoImage} />
-
 const BodyCryptPlanet = () => {
 	return (<>
 		<div className="container-fluid" id="body__">
